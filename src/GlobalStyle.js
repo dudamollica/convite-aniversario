@@ -49,7 +49,7 @@ div,span,h1,p, h2, input, label{
     font-family: "roboto";
 }
 body{
-    background-color: #091fe4;
+    background-color: #87c8d4;
 }
 `
 

@@ -36,6 +36,7 @@ const InvitationContainer = styled.div`
   justify-content: center;
   position: relative;
   @media (max-width: 553px) {
+    margin-top: 150px;
     video {
       width: 90%;
     }
